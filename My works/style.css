@@ -1,0 +1,56 @@
+/* Add the same styles for the hero section as in the main page */
+.hero-banner h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 128px;
+    color: #696868;
+    margin-bottom: 0;
+    padding-left: 30px;
+  }
+  
+  .hero-banner h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    color: #353535;
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-left: 35px;
+  }
+  
+  /* Add styles for the rest of the content as per your design preferences */
+  /* Add additional sections, images, and works content here */
+  
+  /* Styles for the work boxes */
+  .image-content-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .work-box {
+    width: 45%;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .work-box h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    color: #353535;
+    margin-bottom: 10px;
+  }
+  
+  .work-box img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .work-box p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #696868;
+  }
+  
